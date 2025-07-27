@@ -1,0 +1,8 @@
+speechrecognition
+pyaudio
+gtts
+playsound
+pyttsx3
+numpy
+opencv-python
+requests
